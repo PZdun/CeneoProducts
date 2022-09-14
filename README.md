@@ -12,10 +12,9 @@ Framework for creating list of items basing on recommended ads in Google and lis
 Program supports additional scenarios:
 - Google doesn't show list of recomemnded products. Return of a program: 
     
-    !!! Błąd !!! 
-    B!!! Error !!! \n Wrong phrase. Google couldn't create lists of products. Give a correct phrase ex.: best phone 2022!
+    !!! Error !!! \n Wrong phrase. Google couldn't create lists of products. Give a correct phrase ex.: best phone 2022!
 
-It can happen when we pass phrase like: "radio eska", or any other phrase which doesn't suggest a mainstream products
+    It can happen when we pass phrase like: "radio eska", or any other phrase which doesn't suggest a mainstream products
 
 - Ceneo couldn't find product name from a list. In an excel file user will see an information in a particular row.
 
